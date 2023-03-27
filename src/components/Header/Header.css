@@ -1,0 +1,22 @@
+
+
+.header {
+    height: 80px;
+    background-color: #1c2b35;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 100px;
+    align-items: center;
+
+
+}
+
+.nav-menu{
+    
+}
+
+ .header a{
+    text-decoration: none;
+    padding: 15px;
+    color: aliceblue;
+}
